@@ -1,0 +1,46 @@
+# jemdoc: menu{MENU.txt}{index.html}, nofooter  
+==Chrysafis Vogiatzis
+
+~~~
+0
+Chrysafis Vogiatzis, Ph.D.,\n [https://ise.illinois.edu/directory/profile/chrys Industrial and Enterprise Systems Engineering], \n
+[https://illinois.edu University of Illinois at Urbana-Champaign] \n 
+phone: \+1-217-300-7078 \n
+email: /chrys/ \[at\] illinois \[dot\] edu \n
+webpage: [https://www.vogiatzis.web.illinois.edu vogiatzis.web.illinois.edu]
+~~~
+\n
+[files/cv.pdf My most recent academic cv is here]. Thank you for visiting my website!
+
+== About me 
+I received my Ph.D. degree in [https://www.ise.ufl.edu Industrial & Systems Engineering] at the [https://www.ufl.edu University of Florida] under the
+supervision of [https://www.ise.ufl.edu/pardalos/ Dr. Panos M. Pardalos]. Prior to joining the University of Illinois at Urbana-Champaign,
+I was an assistant professor at the [https://www.ndsu.edu/ime/ Department of Industrial & Manufacturing Engineering at North Dakota State University] and the
+[https://www.ncat.edu/coe/departments/ise/index.php Department of Industrial & Systems Engineering at North Carolina A&T State University]. I also have a M.Sc. degree from the University of 
+Florida and a Dipl. Eng. degree in Electrical & Computer Engineering from the [http://ee.auth.gr/en/ Aristotle University of Thessaloniki] in Greece.
+
+== Research
+My current research interests lie in network optimization and combinatorial optimization, along with their vast applications in modern 
+socio-technical and biological systems. One of the main axes of my research is focusing on the study of centrality metrics in biological, 
+social, and infrastructure networks, in order to identify groups and persons of interest. 
+More specifically, my research interests are in Operations Research (broadly defined) and include:
+- Network optimization  
+- Combinatorial optimization
+- Decomposition techniques
+- Evacuation and disaster management
+
+You can find out more about my research [research.html here].
+== Teaching
+I have taught a wide array of classes in Industrial and Systems Engineering over the years, including (but /definitely/ not limited to):
+- Production and inventory control
+- Supply chain management
+- Probabilities and statistics for engineers
+- Analysis of data
+- Analysis of network data
+- Integer and network optimization
+- Quantitative modeling
+
+For more information, and to see evaluations of my teaching, please see [teaching.html here].
+
+
+

@@ -1,0 +1,139 @@
+# jemdoc: menu{MENU.txt}{research.html}, nofooter  
+==Research
+
+
+== Brief research statement
+
+My current research interests lie in network optimization and combinatorial optimization, along with their vast applications in modern 
+socio-technical and biological systems. One of the main axes of my research is focusing on the study of centrality metrics in biological, 
+social, and infrastructure networks, in order to identify groups and persons of interest. 
+More specifically, my research interests are in operations research (broadly defined) and include:
+- Network optimization  
+- Combinatorial optimization
+- Decomposition techniques
+- Evacuation and disaster management
+
+== Sponsored research
+
+My research has been sponsored by the National Science Foundation, the Army Research Lab, and the Department of Homeland Security. 
+More specifically, I have received funding to work on: 
+- 	Title: Innovations in Graduate Education: Developing a Research Engineer Identity, awarded by the NSF (Innovations in Graduate Education). 
+ 	The total amount is \$461,225, and I am a co-PI. The period of funding is 04\/2019--03\/2022.
+- 	Title: Contextualizing knowledge and perception in dynamic environments using interdependent network analysis, awarded by the Army Research
+	Lab. The total amount is \$212,000, and I am the PI. The period of funding is 08\/2018--07\/2020.	
+- 	I also received \$56,034.72 (as a subaward) from the Department of Homeland Security (DHS), Center of Excellence for Accelerating Operational Efficiency (CAOE). 
+	The project was active during the Summer of 2018 (05\/2018--07\/2018). We were able to fund two undergraduate students, Ms. Ameenah 
+	Al-Raheem and Mr. Carter Koehler to study two network optimization problems with applications in social network analysis.
+
+
+== Publications
+All student names are in +monospace+ (undergraduate students are also in +*bold*+).
+
+=== Journal articles
+
+.   +Forouzandeh Shahraki, A.+, Yadav, O.P.,
+    Vogiatzis, C., [https://www.sciencedirect.com/science/article/abs/pii/S0951832019303126 Selective maintenance optimization for
+    multi-state systems considering stochastically dependent components
+    and stochastic imperfect maintenance actions], Reliability
+    Engineering & System Safety, 2020.
+.   +Rahim-Taleqani, A.+, Hough, J., and Vogiatzis, C.,
+    [https://www.hindawi.com/journals/jat/2020/1275851/ Maximum closeness centrality k-clubs: a study of dock-less bike
+    sharing], Journal of Advanced Transportation, 2020.
+.   +Aslaam, N. M.+, Szmerekovsky, J., and
+    Vogiatzis, C., [https://link.springer.com/article/10.1007/s12667-019-00361-z Plant capacity level and location as a mechanism
+    for sustainability in biomass supply chain], Energy
+    Systems, accepted, 2019.
+.   Vogiatzis, C. and +Camur, M.C.+, [https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2018.0872 Identification of
+    essential proteins using induced stars in protein-protein
+    interaction networks], INFORMS Journal on Computing, accepted, 2019.
+.   +Faiz, T.+, Vogiatzis, C., and Alam, N., [https://www.sciencedirect.com/science/article/abs/pii/S0360835219301172 A column
+    generation algorithm for vehicle scheduling and routing problems],
+    Computers and Industrial Engineering, accepted, 2019.
+.   +Rasti, S.+, Vogiatzis, C., [https://link.springer.com/article/10.1007/s10479-018-2956-2 A survey of
+    computational methods in protein--protein interaction networks],
+    Annals of Operations Research, Vol. 276 (1-2), pp. 35--87, 2019.
+.   +*Yasui, N.*+, Vogiatzis, C., Yoshida,
+    R., and Fukumizu, K., [https://ieeexplore.ieee.org/document/8554124 imPhy: imputing phylogenetic trees with
+    missing information using mathematical programming], IEEE///ACM
+    Transactions on Computational Biology and Bioinformatics, accepted,
+    2018 ([https://github.com/yasuiniko/imPhy code available]).
+.   +Aslaam, N. M.+, Vogiatzis, C., and Szmerekovsky,
+    J., [https://www.sciencedirect.com/science/article/abs/pii/S030142151830051X Biomass feedstock supply chain network design with conversion
+    incentives], Energy Policy, Vol. 116, pp. 39--49, 2018.
+.   Vogiatzis, C. and Walteros, J.L., [https://onlinelibrary.wiley.com/doi/abs/10.1002/net.21786 Integer programming models
+    for detecting graph bipartitions with structural requirements],
+    Networks, Vol. 71, No. 4, pp. 432--450, 2018.
+.   Yoshida, R., Fukumizu, K., and Vogiatzis, C., [https://link.springer.com/article/10.1007/s10479-017-2456-9 Multilocus
+    phylogenetic analysis with gene tree clustering], Annals of
+    Operations Research, accepted, 2017. [https://arxiv.org/pdf/1506.07976.pdf arXiv]
+.   Vogiatzis, C., Veremyev, A., Pasiliao, E.L., and Pardalos, P.M., [https://link.springer.com/article/10.1007/s11590-014-0782-2 An integer programming approach for finding the 
+	most and least central cliques], Optimization Letters, Vol. 9, No. 4, pp. 615--633, 2015.  
+.   Vogiatzis, C., Pasiliao, E.L., and Pardalos, P.M., [https://link.springer.com/article/10.1007/s10589-013-9619-7 Graph partitions for the multidimensional assignment problem, 
+	Computational Optimization and Applications], Vol. 58, No. 1, pp. 205--224, 2014.
+.   Walteros, J.L., Vogiatzis, C., Pasiliao, E.L., and Pardalos, P.M., 
+	[https://www.sciencedirect.com/science/article/abs/pii/S0377221713008710 Integer programming models for the multidimensional assignment problem with star costs], 
+	European Journal of Operational Research, Vol. 235, No. 3, pp. 553--568, 2014.
+.   Davis, J.R., Paramygin, V.A., Vogiatzis, C., Sheng, Y.P., Pardalos, P.M., and Figueiredo, R.J., 
+	[https://www.mdpi.com/2077-1312/2/2/287 Strengthening the resiliency of a coastal transportation system through integrated simulation of storm surge, inundation, 
+	and non-recurrent congestion in Northeast Florida], Journal of Marine Science and Engineering, Vol. 2, No. 2, 
+	pp. 287--305, 2014.
+.   Vogiatzis, C., Yoshida, R., Aviles-Spadoni, I., Imamoto, S., and Pardalos, P.M., 
+	[http://ijmed.org/articles/612/ Evacuation planning for livestock in case of natural and man-made emergencies], 
+	International Journal of Mass Emergencies and Disasters, Vol. 31, No. 1, pp. 25--37, 2013.
+	
+=== Peer-reviewed conference proceedings and book chapters
+
+.   +Meda, H.+, Davis, L., and Vogiatzis, C., [https://ieeexplore.ieee.org/abstract/document/9006133 Analysis
+    of Hurricane Matthew 2016 Data to Estimate Airline Passengers
+    Disruption, IEEE International Conference on Big Data], 2020.
+.   +Suehr, S.+ and Vogiatzis, C., [https://www.computer.org/csdl/proceedings-article/eisic/2018/08752978/1bolVyALI08 Now you see me:
+    Identifying duplicate network personas], European Intelligence and
+    Security Informatics Conference (EISIC) 2018, accepted, 2018. *Best
+    Paper Award* winner for EISIC 2018.
+.   +Achrekar, O.+ and Vogiatzis, C., [https://link.springer.com/chapter/10.1007/978-3-319-97442-2_1 Evacuation trees
+    with contraflow and divergence considerations], In: Kotsireas I.,
+    Nagurney A., Pardalos P. (eds) Dynamics of Disasters. Springer
+    Optimization and Its Applications, Vol. 140, pp. 1--46, Springer,
+    Cham, 2018.
+.   Vogiatzis, C. and Pardalos, P.M., Evacuation and betweenness
+    centrality, In: Kotsireas I., Nagurney A., Pardalos P. (eds)
+    Dynamics of Disasters---Key Concepts, Models, Algorithms, and
+    Insights. Springer Proceedings in Mathematics & Statistics, Vol.
+    185, pp. 345--359, Springer, Cham, 2016.
+.   Vogiatzis, C., Walteros, J.L., and Pardalos, P.M., Evacuation
+    through clustering techniques, In: Goldengorin B., Kalyagin V., Pardalos P. (eds) Models, Algorithms, and Technologies for Network Analysis. 
+    Springer Proceedings in Mathematics & Statistics, Vol 32., pp. 185--198, Springer, New York, 2013.
+.   Vogiatzis, C. and Pardalos, P.M., Combinatorial Optimization
+    Techniques in Transportation and Logistics Networks, In: Pardalos P., Du, D.-Z. (eds) Handbook of
+    Combinatorial Optimization, Vol. 3, pp 673--722, 2013.
+.   Davis, J. R., Zheng, Q. P., Paramygin, V. A., Tutak, B..
+    Vogiatzis, C., Sheng, Y. P., Pardalos, P. M., and Figueiredo, R.
+    J., Development of a Multimodal Transportation Educational Virtual
+    Appliance (MTEVA) to study congestion during extreme tropical
+    events, Proceedings of the Transportation Research Board (TRB) 91st
+    Annual Meeting, 12--1119, 2012.
+.   Vogiatzis, C., Sensors in Transportation and Logistics
+    Networks, In: Sensors: Theory, Algorithms, and Applications,
+    Springer Optimization and Its Applications, Vol. 61, Part 3,
+    145--163, 2012.
+.   Davis, J. R., Paramygin, V. A., Figueiredo, R. J., Sheng, Y. P.,
+    Vogiatzis, C. and Pardalos, P. M., [https://ascelibrary.org/doi/abs/10.1061/9780784412411.00022 The Coastal Science
+    Educational Virtual Appliance (CSEVA)], Estuarine and Coastal
+    Modeling, Malcolm L. Spaulding ed., ASCE, 2011.
+
+    
+=== Articles in preparation/submitted
+
+. +Camur, M.C.+, Sharkey, T., and Vogiatzis, C., The star degree centrality problem: a Benders decomposition approach, submitted, February 2020. 
+. +Faiz, T.+, Vogiatzis, C., and Alam, N., Robust two echelon vehicle and drone routing for post disaster humanitarian operations, submitted, January 2020.
+. +Sarowar, M.+, Vogiatzis, C., and Alam, N., A primal-dual interior point method for a novel type-2 second order cone optimization, submitted, January 2020.
+. +Rasti, S.+ and Vogiatzis, C., Novel group centrality metrics for detecting essentiality in protein-protein interaction networks, in preparation, target journal: Networks. 
+. Ameen, G., Drader, T., Solanki, S., Sager-Bittara, L., Steffenson, B., Kleinhofs, A., Vogiatzis, C., and Brueggeman, R., rcs5-mediated spot blotch resistance 
+  in barley is conferred by wall-associated kinases that function as dominant susceptibility genes, in preparation, target journal: Proceedings of the National Academy of Sciences.
+
+=== Edited books and special issues
+
+. Pardalos, P.M., Vogiatzis, C., and Walteros, J.L., Selected Papers from the Learning and Intelligent Optimization 8 Conference, Special Issue at Annals of Mathematics and Artificial Intelligence, Vol. 76, No. 1-2, 2016.
+. Pardalos, P.M., Resende, M.G.C., Vogiatzis, C., and Walteros J.L., Learning and Intelligent Optimization: 8th International Conference, Lion 8, Gainesville, FL, USA, February 16-21, 2014 Revised Selected Papers, Lecture Notes in Computer Science Vol. 8426, Springer, 2014.
+. Vogiatzis, C., Walteros, J.L., and Pardalos, P.M., Dynamics of Information Systems: Computational and Mathematical Challenges, Springer Proceedings in Mathematics & Statistics Vol. 105, Springer, 2014.
+
