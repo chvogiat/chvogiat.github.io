@@ -1,16 +1,18 @@
 # jemdoc: menu{MENU.txt}{courses.html}, nofooter  
 ==Courses
 
-Here, I try to include all of the courses that I have taught over the past 5 years at the
+Here, I try to include all of the courses that I have taught over the past few years at the
 University of Florida, North Dakota State University, North Carolina A&T State University, and
 (currently) University of Illinois at Urbana-Champaign. 
 
 ~~~
 {}{table}{CoursesTaught}
 University | Course | Semester | Ratings  ||
+University of Illinois at Urbana-Champaign  | [ie300.html IE 300: Analysis of data] | Fall 2020 | 4.74\/5.00 ||
+University of Illinois at Urbana-Champaign  | [ie532.html IE 532: Analysis of network data] | Fall 2020 | 5.00\/5.00 ||
 University of Illinois at Urbana-Champaign  | [ie398.html IE 398: Simulation] | Spring 2020 | 4.72\/5.00 ||
-University of Illinois at Urbana-Champaign  | [ie300.html IE 300: Analysis of data] | Fall 2019 | 4.7\/5.0 ||
-University of Illinois at Urbana-Champaign  | [ie532.html IE 532: Analysis of network data] | Fall 2019 | 4.9\/5.0 ||
+University of Illinois at Urbana-Champaign  | [ie300.html IE 300: Analysis of data] | Fall 2019 | 4.70\/5.00 ||
+University of Illinois at Urbana-Champaign  | [ie532.html IE 532: Analysis of network data] | Fall 2019 | 4.90\/5.00 ||
 North Carolina A&T State University  | ISEN 430: Stochastic operations research | Summer 2019 | N\/A ||
 North Carolina A&T State University  | ISEN 430: Stochastic operations research | Spring 2019 | 4.75\/5.00 ||
 North Carolina A&T State University  | ISEN 841: Integer and network optimization | Spring 2019 | 4.80\/5.00 ||
