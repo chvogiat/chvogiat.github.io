@@ -1,5 +1,5 @@
 # jemdoc: menu{MENU.txt}{courses.html}, nofooter  
-==Courses
+=Courses
 
 Here, I try to include all of the courses that I have taught in my academic career. A summary, in the form of box plots, of the evaluations I have received follow:
 
@@ -12,6 +12,8 @@ Here, I try to include all of the courses that I have taught in my academic care
 ~~~
 {}{img_left}{images/boxplotall.png}{Boxplot2}{500}
 ~~~
+
+== Evaluations
 
 ~~~
 {}{table}{CoursesTaught}

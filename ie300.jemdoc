@@ -1,7 +1,10 @@
 # jemdoc: menu{MENU.txt}{ie300.html}, nofooter  
 =IE 300
 
-#includeraw{timer.html}
+~~~
+*See you every Monday, Wednesday, and Friday at 11:00 am!*
+~~~
+##includeraw{timer.html}
 
 Welcome to the website for IE 300. Here you will find all notes, worksheets, and slides for the lectures we have done so far. 
 You will also find links to the pre-lecture videos. 
