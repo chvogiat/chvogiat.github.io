@@ -1,11 +1,7 @@
 # jemdoc: menu{MENU.txt}{courses.html}, nofooter  
 ==Courses
 
-Here, I try to include all of the courses that I have taught over the past 5 years at the
-University of Florida, North Dakota State University, North Carolina A&T State University, and
-(currently) University of Illinois at Urbana-Champaign. 
-
-A summary, in the form of box plots, of the evaluations I have received follow:
+Here, I try to include all of the courses that I have taught in my academic career. A summary, in the form of box plots, of the evaluations I have received follow:
 
 - Last 5 years:
 ~~~
@@ -46,8 +42,21 @@ University of Florida  | COP 2271: Computer programming for engineers (VB.NET) |
 University of Florida  | EIN 4360C: Facilities design | Summer 2015 | 5.00\/5.00 ||
 University of Florida  | ESI 4221C: Statistical quality control | Spring 2015 | 4.96\/5.00 ||
 University of Florida  | ESI 4523: Simulation | Spring 2015 | 5.00\/5.00 ||
-University of Florida  | ESI 6323: Models for supply chain management | Spring 2015 | 4.83\/5.00 
+University of Florida  | ESI 6323: Models for supply chain management | Spring 2015 | 4.83\/5.00 ||
+University of Florida  | COP 2271: Computer Programming for Engineers (MATLAB) | Fall 2014 | 4.91\/5.00 ||
+University of Florida  | COP 2271: Computer Programming for Engineers (C\+\+) | Fall 2014 | 4.82\/5.00 || 
+University of Florida  | ESI 4221C: Introduction to Quality Control | Fall 2014 | 4.92\/5.00 || 
+University of Florida  | COP 2271, Computer Programming for Engineers (Fortran) | Spring 2014 | 4.92\/5.00 || 
+University of Florida  | COP 2271, Computer Programming for Engineers (VB.NET) | Fall 2013 | N\/A || 
+University of Florida  | COP 2271, Computer Programming for Engineers (VB.NET, Section 1) | Spring 2013 | 4.73\/5.00 ||
+University of Florida  | COP 2271, Computer Programming for Engineers (VB.NET, Section 2) | Spring 2013 | 5.00\/5.00 ||
+University of Florida  | COP 2271, Computer Programming for Engineers (VB.NET) | Fall 2012 | 4.78\/5.00 || 
+University of Florida  | COP 2271, Computer Programming for Engineers (C\+\+) | Spring 2012 | 4.85\/5.00 || 
+University of Florida  | COP 2271, Computer Programming for Engineers (C\+\+) | Fall 2011 | 4.77\/5.00 || 
+University of Florida  | CGS 2421, Computer Programming for Engineers (C\+\+) | Summer 2011 | 4.57\/5.00 || 
+University of Florida  | CGS 2421, Computer Programming for Engineers (C\+\+) | Spring 2011 | 4.48\/5.00 || 
+University of Florida  | CGS 2421, Computer Programming for Engineers (C\+\+) | Fall 2010 | 4.64\/5.00 || 
+University of Florida  | CGS 2421, Computer Programming for Engineers (C\+\+) | Summer 2010 | 4.40\/5.00 || 
 ~~~
-
 
 
