@@ -1,19 +1,39 @@
 # jemdoc: menu{MENU.txt}{ie398.html}, nofooter  
 ==IE 398
 
-This website is for University of Illinois at Urbana-Champaign students for the Spring 2021 IE 398 -- Simulation course. As a reminder, if you are a registered student, you may find all information about the class in [https://compass2g.illinois.edu/ *Compass*]. Please
-also join our discussions on [https://piazza.com/illinois/spring2021/ie398 *Piazza*]!
+This website is for University of Illinois at Urbana-Champaign students for the Spring 2022 IE 398 -- Simulation course. As a reminder, if you are a registered student, you may find all information about the class in [https://canvas.illinois.edu/ *Canvas*]. Please
+also join our discussions on [https://piazza.com/illinois/spring2022/ie398 *Piazza*]! 
 
+== Meeting times
+
+Our class meets every Tuesday and Thursday at 2 pm at 2100 Sidney Lu Link Mechanical Engineering Building.
 
 == Syllabus
 
+The syllabus of the course for Spring 2022 can be accessed through [files/ie398s2022.pdf here].
 
-The syllabus for *Spring 2021* will be made available shortly. If you are interested in previous syllabi, [files/ie398sp2020.pdf here] is the syllabus of the course for Spring 2020. Due to COVID-19, the syllabus for the class had been *quite* altered. The latest version can be found [files/ie398sp2020COVID-19.pdf here].
-
+# Due to COVID-19, the syllabus for the class has been *quite* altered. The new version is found [files/ie398sp2020COVID-19.pdf here].
 
 == Grading
 
-Students in the class: please visit the website http:\/\/vogiatzis.web.illinois.edu\/ie398sp2020\/*your_user_id_here*.png to see 
+The grading rubric for Spring 2022 is the following:
+
+~~~
+{}{table}{Grading}
+Activity | Weight ||
+Lab assignments | 20\% ||
+Midterm exam 1 | 20\% || 
+Midterm exam 2 | 20\% || 
+Final exam | 30\% || 
+Term project | 10\% ||
+Total | 100\% 
+~~~
+
+=== Using simulation to predict the final letter grade
+
+In earlier years, we used simulation techniques to "predict" the final letter grade of a student early on! 
+
+[SPRING 2020 and 2021 ONLY] Students in the class: please visit the website http:\/\/vogiatzis.web.illinois.edu\/ie398sp2020\/*your_user_id_here*.png to see 
 a simulation of potential outcomes for your final letter grade, depending on your performance to date. For example, if your user id is 
 12345678, then you'd visit [ie398sp2020/12345678.png http:\/\/vogiatzis.web.illinois.edu\/ie398sp2020\/12345678.png] and you'd see your 
 potential grade outcomes.
