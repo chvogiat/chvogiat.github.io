@@ -1,13 +1,30 @@
 # jemdoc: menu{MENU.txt}{courses.html}, nofooter  
 ==Courses
 
-Here, I try to include all of the courses that I have taught over the past few years at the
+Here, I try to include all of the courses that I have taught over the past 5 years at the
 University of Florida, North Dakota State University, North Carolina A&T State University, and
 (currently) University of Illinois at Urbana-Champaign. 
 
+A summary, in the form of box plots, of the evaluations I have received follow:
+
+- Last 5 years:
+~~~
+{}{img_left}{images/boxplot5years.png}{Boxplot1}{500}
+~~~
+
+- All time:
+~~~
+{}{img_left}{images/boxplotall.png}{Boxplot2}{500}
+~~~
+
 ~~~
 {}{table}{CoursesTaught}
-University | Course | Semester | Ratings  ||
+University | Course | Semester | Ratings  ||University of Illinois at Urbana-Champaign  | [ie300.html IE 300: Analysis of data] | Spring 2022 | 5.00\/5.00 ||
+University of Illinois at Urbana-Champaign  | [ie398.html IE 398: Simulation] | Spring 2022 | 4.85\/5.00 ||
+University of Illinois at Urbana-Champaign  | [ie300.html IE 300: Analysis of data] | Fall 2021 | 4.74\/5.00 ||
+University of Illinois at Urbana-Champaign  | [ie532.html IE 532: Analysis of network data] | Fall 2021 | 4.82\/5.00 ||
+University of Illinois at Urbana-Champaign  | [ie300.html IE 300: Analysis of data] | Spring 2021 | 4.81\/5.00 ||
+University of Illinois at Urbana-Champaign  | [ie398.html IE 398: Simulation] | Spring 2021 | 4.85\/5.00 ||
 University of Illinois at Urbana-Champaign  | [ie300.html IE 300: Analysis of data] | Fall 2020 | 4.74\/5.00 ||
 University of Illinois at Urbana-Champaign  | [ie532.html IE 532: Analysis of network data] | Fall 2020 | 5.00\/5.00 ||
 University of Illinois at Urbana-Champaign  | [ie398.html IE 398: Simulation] | Spring 2020 | 4.72\/5.00 ||
