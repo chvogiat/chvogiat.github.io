@@ -1,10 +1,13 @@
 # jemdoc: menu{MENU.txt}{research.html}, nofooter  
 = Research
 
-Here, I provide a brief research statement, a list of my sponsored research and academic activities, and a list of all my publications. 
-For an up-to-date list of publications, please check my [https://scholar.google.com/citations?user=DQxaPokAAAAJ&hl=en Google Scholar page].
+Here, I provide a [research.html\#brief-research-statement brief research statement], a list of [research.html\#sponsored-research my sponsored research and academic activities], and a [research.html\#publications list of all my publications]. 
+For an up-to-date list of publications, please check [https://scholar.google.com/citations?user=DQxaPokAAAAJ&hl=en *my Google Scholar page*].
 
-== Brief research statement
+~~~
+{}{raw}
+<h2 id="brief-research-statement">Brief research statement </h2>
+~~~
 
 My current research interests lie in network optimization and combinatorial optimization, along with their vast applications in modern 
 socio-technical and biological systems. One of the main axes of my research is focusing on the study of centrality metrics in biological, 
@@ -15,7 +18,10 @@ More specifically, my research interests are in operations research (broadly def
 - Decomposition techniques
 - Evacuation and disaster management
 
-== Sponsored research
+~~~
+{}{raw}
+<h2 id="sponsored-research">Sponsored research </h2>
+~~~
 
 My research has been sponsored by the National Science Foundation, the Army Research Lab, and the Department of Homeland Security. 
 More specifically, I have received funding to work on: 
@@ -36,7 +42,11 @@ More specifically, I have received funding to work on:
 	Al-Raheem and Mr. Carter Koehler to study two network optimization problems with applications in social network analysis.
 
 
-== Publications
+~~~
+{}{raw}
+<h2 id="publications">Publications </h2>
+~~~
+
 All graduate and undergraduate student names are in +monospace+.
 
 === Journal articles
